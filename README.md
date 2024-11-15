@@ -19,6 +19,7 @@ Se você é uma pessoa abacatinha ativa, coloque seu nome abaixo
 | Nat Dev| Abacatinha |
 | Milena| Abacatinha |
 | Fabi | Abacatinha |
+| Maria de Fátima | Abacatinha
 
 
 
